@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.pyc
+data/*.csv
+artifacts/*.keras
+artifacts/*.joblib
+artifacts/*.json
+artifacts/*.png
